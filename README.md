@@ -1,6 +1,6 @@
 FakeSMTP
 ========
-AITOR HA MODIFICADO ESTO
+MIRIAM HA MODIFICADO ESTO
 
 FakeSMTP is a Free Fake SMTP Server with GUI for testing emails in applications easily.
 It is written in Java.
@@ -10,12 +10,12 @@ It is written in Java.
 Configure your application to use `localhost` as your SMTP server, and all
 emails will be intercepted and displayed in this software.
 
-FakeSMTP uses SubEthaSMTP: an easy-to-use server-side SMTP library for Java.
+Cambio número 2 en el README.md
 
 FakeSMTP is free to use for commercial and non-commercial projects and the
 source code is provided.
 
-It is licensed under the very free BSD or GPL license, whichever you prefer.
+He realizado un cambio en el README.md
 
 
 Requirements
